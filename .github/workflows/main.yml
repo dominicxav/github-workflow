@@ -1,4 +1,4 @@
-name: Dominic
+name: Dom
 
 on:
   push:
@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - name: Greetings
-        run: echo "Hello World"
+        run: echo "YES"
